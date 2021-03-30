@@ -1,0 +1,20 @@
+1. Care sunt titlurile cărților din genul Dramă?
+2. Câți cititori au împrumutat o carte în ultima lună?
+3. Care este numărul total de viniluri?
+4. Care este cel mai căutat autor?
+5. Câți cititori sunt tineri?
+6. Care este cea mai veche carte din bibliotecă?
+7. Câte secțiuni există?
+8. Ce cărți există în bibliotecă?
+9. Care este ultima carte împrumutată?
+10. Care este cel mai activ cititor?
+
+1. secțiuni
+2. cărți
+3. autori
+4. cititori
+5. servicii
+6. viniluri
+7. edituri
+8. main
+
