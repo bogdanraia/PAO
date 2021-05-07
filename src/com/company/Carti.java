@@ -31,7 +31,7 @@ public class Carti implements Comparable< Carti >{
         return anCarte;
     }
 
-    public String edituraCarte(){
+    public String getEditura(){
         return edituraCarte;
     }
 
